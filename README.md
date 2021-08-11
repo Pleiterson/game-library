@@ -1,36 +1,35 @@
 <!-- Badges session -->
 <p align="center">  
   <!-- languages -->
-  <img src="https://img.shields.io/github/languages/count/pleiterson/nomeDoRepositorio?style=social" alt="Linguagens utilizadas">
+  <img src="https://img.shields.io/github/languages/count/pleiterson/game-library?style=social" alt="Linguagens utilizadas">
   <!-- repo size -->
-  <img src="https://img.shields.io/github/repo-size/Pleiterson/nomeDoRepositorio?style=social" alt="Tamanho do repositório">
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/game-library?style=social" alt="Tamanho do repositório">
   <!-- last commit -->
-  <img src="https://img.shields.io/github/last-commit/Pleiterson/nomeDoRepositorio?style=social" alt="Último commit">
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/game-library?style=social" alt="Último commit">
   <!-- licence MIT -->
-  <img src="https://img.shields.io/github/license/Pleiterson/nomeDoRepositorio?style=social" alt="Licença MIT">
+  <img src="https://img.shields.io/github/license/Pleiterson/game-library?style=social" alt="Licença MIT">
 </p>
 
 
 <!--Banner session-->
-<p align="center"><img src="./src/assets/img/banner.png" alt="banner"></p>
+<!-- <p align="center"><img src="./src/assets/img/banner.png" alt="banner"></p> -->
 
 
 <!--About session-->
-<h1 align="center">tituloDoProjeto<br>nomeEscola</h1>
+<h1 align="center">🎮 Minha Biblioteca de Jogos 🎮<br>PleiGames</h1>
 
-Aqui deve constar a explicação do projeto criado
+Minha biblioteca pessoal de jogos do Xbox 360, Xbox One, Xbox Series S e Xbox Series X.<br/>
+Minha gamertag: @pleiterson
 
-- [Link do vídeo]() // Video link. - se existir
-- [Projeto desenvolvido]() // Project developed.
+<!-- - [Projeto desenvolvido]() // Project developed. -->
 
-<p align="center"><img src="./src/assets/img/project.gif" alt="project"></p>
+<!-- <p align="center"><img src="./src/assets/img/project.gif" alt="project"></p> -->
 
 ##
 <!--LTechnologies used-->
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
-Aqui deve constar toda as tecnologias utilizadas no projeto com o link de sua documentação, exemplo:
-- [HTML](https://developer.mozilla.org/en-US/docs/Glossary/HTML)
+- [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
 
 ##
 <!--License session-->

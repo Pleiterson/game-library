@@ -25,7 +25,7 @@ yarn-error.log*
 # ver arquivo e:/dev/Como Organizar Projetos Em React.pdf para melhor detalhe da estrutura das pastas abaixo
 src/__mocks__
 
-# src/_assets/
+src/_assets/
 src/_assets/css
 # src/_assets/fonts
 src/_assets/icons
@@ -40,16 +40,16 @@ src/_environments/__tests__
 src/_translate
 src/_translate/languages/__tests__
 
-# src/components
+src/components
 
-# src/constants
+src/constants
 # src/constants/__tests__
 
 # src/containers
 src/containers/__tests__
 
 # o nome da feature pode mudar conforme o avanço do projeto
-# src/features
+src/features
 src/features/nomeFeatures/__tests__
 # src/features/nomeFeatures/components
 # src/features/nomeFeatures/containers
