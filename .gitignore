@@ -32,7 +32,7 @@ src/_assets/icons
 # src/_assets/img
 src/_assets/js
 
-src/_config
+# src/_config
 
 src/_environments
 src/_environments/__tests__
@@ -40,23 +40,41 @@ src/_environments/__tests__
 src/_translate
 src/_translate/languages/__tests__
 
-src/components
+# src/components
 
-src/constants
-# src/constants/__tests__
+# src/constants
+src/constants/__tests__
 
 # src/containers
 src/containers/__tests__
 
 # o nome da feature pode mudar conforme o avanço do projeto
-src/features
-src/features/nomeFeatures/__tests__
-# src/features/nomeFeatures/components
-# src/features/nomeFeatures/containers
-# src/features/nomeFeatures/pages
-src/features/nomeFeatures/pages/__tests__
+# src/features
+src/features/home/__tests__
+src/features/home/components
+src/features/home/containers
+# src/features/home/pages
+src/features/home/pages/__tests__
 
-src/helpers
+src/features/games/__tests__
+src/features/games/components
+src/features/games/containers
+# src/features/games/pages
+src/features/games/pages/__tests__
+
+src/features/saleGame/__tests__
+src/features/saleGame/components
+src/features/saleGame/containers
+# src/features/saleGame/pages
+src/features/saleGame/pages/__tests__
+
+src/features/achievements/__tests__
+src/features/achievements/components
+src/features/achievements/containers
+# src/features/achievements/pages
+src/features/achievements/pages/__tests__
+
+# src/helpers
 src/helpers/__tests__
 
 src/utils

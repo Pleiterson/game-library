@@ -16,9 +16,9 @@
 
 
 <!--About session-->
-<h1 align="center">🎮 Minha Biblioteca de Jogos 🎮<br>PleiGames</h1>
+<h1 align="center">🎮 Meu Catálogo Pessoal de Jogos 🎮<br>PleiGames</h1>
 
-Minha biblioteca pessoal de jogos do Xbox 360, Xbox One, Xbox Series S e Xbox Series X.<br/>
+Navegue pelo catálogo completo de todos os meus jogos para console Xbox<br/>
 Minha gamertag: @pleiterson
 
 <!-- - [Projeto desenvolvido]() // Project developed. -->
@@ -30,6 +30,9 @@ Minha gamertag: @pleiterson
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [ReactJS](https://pt-br.reactjs.org/docs/getting-started.html)
+- [react-router-dom](https://reactrouter.com/web/guides/quick-start)
+- [styled-components](https://styled-components.com/docs)
+- [react-icons](https://react-icons.github.io/react-icons/)
 
 ##
 <!--License session-->
