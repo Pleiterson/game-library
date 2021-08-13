@@ -8,7 +8,7 @@ const GlobalStyle = createGlobalStyle`
 
     --font-normal: 'Segoe UI', sans-serif;
     --font-title: 'SegoeProBlack', sans-serif;
-    --font-Bangers: 'Bangers', cursive;
+    --font-bangers: 'Bangers', cursive;
 
     --color-background-one: #E6E6E6; /* cinza xbox */
     --color-background-two: #107c10; /* verde xbox */
@@ -22,6 +22,15 @@ const GlobalStyle = createGlobalStyle`
     --color-text-four: #282a36;
     --color-text-five: #;
 
+    --color-line-one: #E6E6E6;
+    --color-line-two: #107c10;
+    --color-line-three: #f8f8f2;
+    --color-line-four: #282a36;
+    --color-line-five: #;
+
+    --hover-bg-button: rgba(16, 124, 16, 0.1);
+    --hover-text-button: #107c10;
+    --hover-line-button: #107c10;
     -transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
   }
 

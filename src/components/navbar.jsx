@@ -4,7 +4,7 @@ import styled from 'styled-components';
 import { RiGameFill } from 'react-icons/ri';
 
 import { navLinks } from '../constants/navLinks';
-import mixins from '../helpers/styles';
+import { mixins } from '../helpers';
 
 const NavBar = styled.nav`
   ${mixins.flexBetween};
@@ -13,10 +13,10 @@ const NavBar = styled.nav`
   user-select: auto !important;
   height: 60px;
   width: 100%;
-  position: fixed;
+  position: sticky;
   top: 0;
   z-index: 11;
-  /* padding: 0px 50px; */
+  /* padding: 0 50px; */
   backdrop-filter: blur(10px);
   transition: var(--transition);
 
@@ -26,6 +26,7 @@ const NavBar = styled.nav`
     padding-left: 10px;
     text-decoration: none;
     color: var(--color-text-two);
+    /* font-family: var(--font-bangers); */
 
     span {
       font-weight: bolder;
@@ -52,7 +53,7 @@ const NavBar = styled.nav`
         padding: 10px;
 
         &:hover {
-          color: var(--color-text-two);
+          color: var(--hover-text-button);
         }
       }
     }
@@ -61,17 +62,19 @@ const NavBar = styled.nav`
 
 const Navbar = () => {
   return (
-    <NavBar>
-      <Link to="/" className="logo"><RiGameFill size={40} color="#fbC02d" /><span> PleiGames</span></Link>
+    <>
+      <NavBar>
+        <Link to="/" className="logo"><RiGameFill size={40} color="#fbC02d" /><span>. . . . PleiGames</span></Link>
 
-      <ul>
-        {navLinks && navLinks.map(({ url, name }, i) => (
-          <li key={i}>
-            <Link to={url} className="items">{name}</Link>
-          </li>
-        ))}
-      </ul>
-    </NavBar> 
+        <ul>
+          {navLinks && navLinks.map(({ url, name }, i) => (
+            <li key={i}>
+              <Link to={url} className="items">{name}</Link>
+            </li>
+          ))}
+        </ul>
+      </NavBar>
+    </>
   );
 };
 

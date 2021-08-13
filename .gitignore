@@ -25,9 +25,9 @@ yarn-error.log*
 # ver arquivo e:/dev/Como Organizar Projetos Em React.pdf para melhor detalhe da estrutura das pastas abaixo
 src/__mocks__
 
-src/_assets/
+# src/_assets/
 src/_assets/css
-# src/_assets/fonts
+src/_assets/fonts
 src/_assets/icons
 # src/_assets/img
 src/_assets/js
