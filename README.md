@@ -21,7 +21,7 @@
 Navegue pelo catálogo completo de todos os meus jogos para console Xbox<br/>
 Minha gamertag: @pleiterson
 
-<!-- - [Projeto desenvolvido]() // Project developed. -->
+- [Projeto desenvolvido](https://pleigames-catalog.vercel.app/) // Project developed.
 
 <!-- <p align="center"><img src="./src/assets/img/project.gif" alt="project"></p> -->
 
