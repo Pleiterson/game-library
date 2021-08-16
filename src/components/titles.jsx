@@ -6,6 +6,9 @@ const Title = styled.div`
   ${mixins.flexCenter};
   flex-direction: column;
   min-height: 25vh;
+  width: 35%;
+  margin: 0 auto;
+  text-align: center;
 
   h1 {
     font-size: 62px;

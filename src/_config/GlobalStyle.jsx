@@ -14,7 +14,8 @@ const GlobalStyle = createGlobalStyle`
     --color-background-two: #107c10; /* verde xbox */
     --color-background-three: #f8f8f2; /* branco drácula */
     --color-background-four: #282a36; /* dark drácula */
-    --color-background-five: #;
+    --color-background-five: #000000;
+    --color-background-six: #222222;
 
     --color-text-one: #E6E6E6;
     --color-text-two: #107c10;
