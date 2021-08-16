@@ -28,7 +28,7 @@ const Titles = () => {
   return (
     <>
       <Title>
-        <h1>CATÁLOGO DE JOGOS</h1>
+        <h1>CATÁLOGO PESSOAL DE JOGOS</h1>
         <p>Navegue pelo catálogo completo de todos os meus jogos</p>
       </Title>
     </>

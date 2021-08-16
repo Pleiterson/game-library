@@ -56,6 +56,12 @@ src/features/home/containers
 # src/features/home/pages
 src/features/home/pages/__tests__
 
+src/features/about/__tests__
+src/features/about/components
+src/features/about/containers
+# src/features/about/pages
+src/features/about/pages/__tests__
+
 src/features/games/__tests__
 src/features/games/components
 src/features/games/containers

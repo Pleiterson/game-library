@@ -1,6 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import Home from '../features/home/pages/';
+import About from '../features/about/pages/';
 import Games from '../features/games/pages/';
 import Sale from '../features/saleGame/pages/';
 import Achievements from '../features/achievements/pages/';
@@ -10,6 +11,7 @@ const Routes = () => {
     <BrowserRouter>
       <Switch>
         <Route path="/" exact component={Home}/>
+        <Route path="/about" component={About}/>
         <Route path="/games" component={Games}/>
         <Route path="/sale" component={Sale}/>
         <Route path="/achievements" component={Achievements}/>
