@@ -10,7 +10,7 @@ export const Profile = styled.div`
   background-color: var(--color-background-two);
   color: var(--color-text-one);
   width: 70%;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 10px;
 
   img {

@@ -13,6 +13,20 @@ module.exports = {
     },
   ],
 
+  personalHC: [
+    {
+      imageURL: 'https://avatars.githubusercontent.com/u/67475936?v=4',
+      score: 2.167,
+      gamertag: 'UzumakiDark6558',
+      profile: 'https://account.xbox.com/pt-br/profile?gamertag=UzumakiDark6558',
+      name: 'Hugo Costa',
+      followers: 1,
+      friends: 19,
+      location: 'Belo Horizonte, Brazil',
+      description: 'Gosto de jogar Free Fire, Ark Survival Evolved, Roblox e Minecraft. Free Fire ID:1726074793 // I enjoy playing Free Fire, Ark Survival Evolved, Roblox and Minecraft. Free Fire ID:1726074793'
+    },
+  ],
+
   socialMedia: [
     {
       name: 'Twitter',
@@ -25,6 +39,17 @@ module.exports = {
     {
       name: 'YouTube',
       url: 'https://www.youtube.com/user/pleiterson'
+    },
+  ],
+
+  socialMediaHC: [
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/hugocostas2007/'
+    },
+    {
+      name: 'YouTube',
+      url: 'https://www.youtube.com/channel/UC-DzZw0cghPAuHesGJuS2bg'
     },
   ],
 
@@ -48,6 +73,15 @@ module.exports = {
       achievement: 'Your first ride...'
     },
     {
+      date:'11/07/2021',
+      imageProfile: 'https://avatars.githubusercontent.com/u/67475936?v=4',
+      gamertag: 'UzumakiDark6558',
+      imageAchievements: 'https://imgur.com/rVPvU4S.png',
+      title: 'Amigo necessitado - Call of Duty®: WWII',
+      score: 25,
+      achievement: 'Amigo necessitado'
+    },
+    {
       date:'27/06/2021',
       imageProfile: 'https://avatars.githubusercontent.com/u/18745378?v=4',
       gamertag: 'pleiterson',
@@ -57,22 +91,13 @@ module.exports = {
       achievement: 'Bem longe do Texas'
     },
     {
-      date:'13/06/2021',
-      imageProfile: 'https://avatars.githubusercontent.com/u/18745378?v=4',
-      gamertag: 'pleiterson',
-      imageAchievements: 'https://imgur.com/KlXzuDU.png',
-      title: 'Bang! Bang! - Tom Clancy’s Ghost Recon® Breakpoint',
-      score: 15,
-      achievement: 'Bang! Bang!'
-    },
-    {
-      date:'04/04/2021',
-      imageProfile: 'https://avatars.githubusercontent.com/u/18745378?v=4',
-      gamertag: 'pleiterson',
-      imageAchievements: 'https://imgur.com/Baqjpr8.png',
-      title: 'Senhor das armas - Tom Clancy’s Ghost Recon® Breakpoint',
-      score: 25,
-      achievement: 'Senhor das armas'
+      date:'05/06/2021',
+      imageProfile: 'https://avatars.githubusercontent.com/u/67475936?v=4',
+      gamertag: 'UzumakiDark6558',
+      imageAchievements: 'https://imgur.com/oYmX6yE.png',
+      title: 'Até o Fim - Call of Duty®: WWII',
+      score: 50,
+      achievement: 'Até o Fim'
     },
   ],
 };
