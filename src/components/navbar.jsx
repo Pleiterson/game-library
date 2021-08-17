@@ -12,11 +12,11 @@ const NavBar = styled.nav`
   pointer-events: auto !important;
   user-select: auto !important;
   height: 60px;
-  width: 100%;
+  /* width: 100%; */
   position: sticky;
   top: 0;
   z-index: 11;
-  /* padding: 0 50px; */
+  padding: 0 50px;
   backdrop-filter: blur(10px);
   transition: var(--transition);
 

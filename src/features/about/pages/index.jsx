@@ -28,7 +28,7 @@ const About = () => {
       <Header />
       <Navbar />
 
-      <Title>Abaixo você poderá visualizar meu perfil e de eu filho, assim como o link para nosso perfil oficial na Xbox</Title>
+      <Title>Abaixo você poderá visualizar meu perfil e de eu filho, e o link para nosso perfil oficial na Xbox</Title>
 
       {/* montagem do meu perfil */}
       {personal && personal.map(({ imageURL, score, gamertag, profile, name, followers, friends, location, description }, i) => (
