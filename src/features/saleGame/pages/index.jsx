@@ -190,7 +190,7 @@ const Sale = () => {
             <AdditionalData>
               <div className="wrap">
                 <div>
-                  <h2>Disponível em</h2>
+                  <h2>Disponível para</h2>
                   <p>{platforms}</p>
                 </div>
                 <div>
