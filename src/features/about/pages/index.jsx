@@ -3,8 +3,8 @@ import styled from 'styled-components';
 import { SiXbox } from 'react-icons/si'
 import { Footer, Header, Navbar } from '../../../components';
 import { lastAchievements, personal, personalHC, socialMedia, socialMediaHC } from '../../../constants/personal';
-import { playing } from '../../../constants/playing';
-import { Icon } from '../../../_assets/js';
+import { playing } from '../../../constants/games';
+import { Icon } from '../../../_assets';
 import { ContainerAchievements, Follow, Fragment, GamerScore, Info, Profile, SocialMedia } from './styled';
 import { Container, WrapperStart } from '../../../helpers/games';
 

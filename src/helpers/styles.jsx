@@ -13,6 +13,12 @@ const mixins = {
     justify-content: space-between;
   `,
 
+  flexStart: css`
+    display: flex;
+    align-items: center;
+    justify-content: start;
+  `,
+
   flexWrapFlow: css`
     display: flex;
     flex-wrap: wrap;

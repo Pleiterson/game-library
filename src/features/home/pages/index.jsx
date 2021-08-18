@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 import { Footer, Header, Navbar, Titles } from '../../../components';
-import { favorites } from '../../../constants/playing';
+import { favorites } from '../../../constants/favorites';
 import { Container, Wrapper } from '../../../helpers/games';
 
 const Span = styled.p`

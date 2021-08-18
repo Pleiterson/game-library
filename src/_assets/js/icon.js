@@ -6,7 +6,7 @@ import {
   IconYouTube,
   IconTwitter,
   IconXbox,
-} from '../js';
+} from '../../_assets';
 
 const Icon = ({ name }) => {
   switch (name) {
